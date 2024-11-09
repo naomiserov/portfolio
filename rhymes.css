@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: "taile";
+    src: url('taile.ttf');
+}
+
+p, pre{
+    font-family: "taile",sans-serif;
+}
+
+
+
+
+
+
