@@ -8,9 +8,7 @@ html,body {
    background-color: white;
     -webkit-overflow-scrolling: touch;
     overflow-x: hidden;
-    transform: scale(0.8);
-    transform-origin: top left;
-    width: 125%;
+   
 }
 }
 a, p, div, summary,th, td {
