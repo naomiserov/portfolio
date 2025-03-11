@@ -8,6 +8,8 @@ html,body {
     background-color: white;
     -webkit-overflow-scrolling: touch;
     overflow-x: hidden;
+    zoom: 0.8; /* Scales the page to 80% */
+}
 }
 a, p, div, summary,th, td {
     text-decoration: none;
