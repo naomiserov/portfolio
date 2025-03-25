@@ -44,6 +44,6 @@ hr{
 .main-images{
     position: relative;
     width: 100%;
-    max-width: 800px;
+    max-width: 600px;
     max-height: auto;
 }
