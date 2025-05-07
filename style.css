@@ -47,9 +47,9 @@ hr{
     max-width: 900px;
     max-height: auto;
 }
-.images{
+.image-block{
     position: relative;
-    width: 50%;
+    width: 60%;
     max-width: 900px;
     max-height: auto;
  }  
