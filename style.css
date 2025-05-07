@@ -48,17 +48,5 @@ hr{
     max-height: auto;
 }
 
- .image-block {
-    width: 100%;
-    max-width: 900px;
-    margin: 0 auto; /* Centering the container */
-}
 
-.image-block a,
-.image-block img {
-    display: block;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
 
