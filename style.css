@@ -48,5 +48,13 @@ hr{
     max-height: auto;
 }
 
+.link-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.link-list a {
+  display: block;
+}
 
 
