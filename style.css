@@ -3,7 +3,7 @@ html,body {
    margin: 0;
     border: 0;
     padding: 0;
-    height: 60%;
+    height: auto;
     width: 60%;
    background-color: white;
     -webkit-overflow-scrolling: touch;
